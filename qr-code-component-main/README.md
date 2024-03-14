@@ -40,9 +40,8 @@ I want to spend more time playing with css layout and presentation properties.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor -@Kumneger49(https://www.frontendmentor.io/profile/Kumneger49)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@kumneger_m](https://www.twitter.com/@kumneger_m)
 
 
  
